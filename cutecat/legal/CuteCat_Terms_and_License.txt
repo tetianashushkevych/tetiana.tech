@@ -11,7 +11,7 @@ CuteCat is a companion app for relaxation and entertainment. The app's license i
 
 Developer and contact
 
-CuteCat: Purr & Sleep is developed by Tetiana Hryshchenko, Ukraine. You can contact the developer at tetiana@tetiana.tech. These notes apply to CuteCat and its pages at tetiana.tech/cutecat/.
+CuteCat: Purr & Sleep is developed by Tetiana Hryshchenko, Ukraine. You can contact the developer at hello@tetiana.tech. These notes apply to CuteCat and its pages at tetiana.tech/cutecat/.
 
 
 App license
