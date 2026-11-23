@@ -1,0 +1,66 @@
+CuteCat: Purr & Sleep
+Privacy Policy
+Last updated: November 23, 2026
+https://tetiana.tech/cutecat/privacy/
+
+
+
+
+The short version: CuteCat does not require an account or send your in-app activity to a developer-operated server. Your cat and room preferences are stored on your device. Apple processes in-app purchases. If you email us or visit this website, those interactions involve the information described below.
+
+
+Who is responsible
+
+CuteCat: Purr & Sleep is developed by Tetiana Hryshchenko, Ukraine. For privacy questions or requests, email tetiana@tetiana.tech. This policy covers the CuteCat iPhone app, its support communications, and the CuteCat pages at tetiana.tech/cutecat/.
+
+
+Information in the app
+
+The current app does not include account registration, advertising, third-party analytics SDKs, or a developer-operated backend. It does not request access to your contacts, photos, microphone, camera, or location. Petting interactions are processed locally to animate the cat and play sounds or haptics; they are not sent to us.
+
+Your chosen cat and room are saved locally using iOS preferences. Other settings may be held only for the current session. We cannot access these local preferences remotely. Device backups may include app preferences according to your Apple and device settings.
+
+
+Apple purchases and diagnostics
+
+If you choose to leave a tip, Apple handles the payment through StoreKit. The app receives the transaction information needed to verify and finish the purchase, such as its product identifier and transaction identifier. CuteCat does not transmit that information to a developer-operated server. We do not receive your card number or payment credentials.
+
+Apple may provide the developer with sales reports and app diagnostics according to Apple's services and your sharing settings. Apple processes App Store, purchase, device, and diagnostic information under its own privacy policy (https://www.apple.com/legal/privacy/). This policy does not control Apple's independent processing.
+
+
+When you contact support
+
+If you email us, we receive your email address, any name included in the message, the message itself, and attachments or device details you choose to send. We use this information to answer your request, investigate problems, and maintain relevant support records. Please avoid sending passwords, payment card details, or unrelated sensitive information.
+
+Support messages are handled through the email services used by you and us. We retain correspondence only as long as needed to resolve the request, maintain relevant records, or meet legal obligations. You can ask us to delete correspondence, subject to any information we need to retain by law.
+
+
+When you visit this website
+
+The CuteCat pages are hosted on GitHub Pages. GitHub logs visitors' IP addresses for security purposes, even if visitors are not signed in. See GitHub Pages data collection (https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection) and the GitHub Privacy Statement (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) for details.
+
+We have not added advertising pixels, analytics scripts, cookies, external fonts, or signup forms to the CuteCat pages. The room preview changes only the image displayed in your browser and does not save your selection. Following an external link or opening your email app brings you under that service's own privacy practices. Other pages on tetiana.tech may have different features.
+
+
+Use, sharing, and international processing
+
+We do not sell personal information or share it for cross-context behavioral advertising. Information you send to support is used to provide support and protect the service. Relevant information may be processed by email and hosting providers, or disclosed if required by law or necessary to protect legal rights.
+
+Providers may process information in countries other than your country of residence. Their policies explain their processing locations, safeguards, and retention practices. Where applicable, we handle support correspondence to respond to your request and pursue our legitimate interest in providing and securing the service, or to comply with a legal obligation.
+
+
+Your choices and requests
+
+You can use the core app offline, choose not to make purchases, and choose what to include in a support email. You can change your cat and room in the app. Deleting the app using iOS's Delete App option removes its local app data from that device; offloading the app may retain data. Copies in backups are managed through your device or Apple settings.
+
+Depending on where you live, you may have rights to access, correct, delete, restrict, object to processing of, or receive a copy of personal information we hold about you. Contact tetiana@tetiana.tech to make a request. We may need to verify that a request relates to you. We cannot provide in-app activity records that we do not collect. You may also have the right to complain to your local data protection authority.
+
+
+Children
+
+The app does not ask users to submit personal information or create accounts. We do not knowingly collect children's personal information through the app. If a child has sent personal information to our support email and you want it removed, please contact us. Parents and guardians can manage purchases through Apple's family and device controls.
+
+
+Changes to this policy
+
+We will update this page if the app or our handling of information changes. The date at the top shows the latest revision. If a change requires additional notice or consent, we will provide it as required.
