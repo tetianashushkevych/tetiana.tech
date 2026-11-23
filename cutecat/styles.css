@@ -7,3 +7,5 @@
 @media(max-width:370px){.wrap{width:calc(100% - 32px)}.hero h1{font-size:3.35rem}.scene{height:440px}.nav .nav-contact{padding:7px 10px}.screens{gap:10px}.screen-card{padding:8px 7px 12px}.footer-links{gap:14px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}}
 @media print{.site-header,.site-footer,.legal-download,.skip{display:none}.wrap,.legal-main{width:100%;max-width:none;margin:0}body{font-size:11pt;background:white}.legal-main h1{font-size:28pt}.legal-main h2{break-after:avoid}.legal-main p,.legal-main li{font-size:11pt}.legal-summary{background:transparent;border:1px solid #ddd}}
+
+.release-status{display:inline-block;padding:12px 20px;border:1px solid #cabbda;border-radius:100px;color:var(--purple-dark);font-weight:600;margin-bottom:14px}.maker-note{margin-top:24px}
