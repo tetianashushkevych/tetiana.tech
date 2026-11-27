@@ -1,12 +1,12 @@
 CuteCat: Purr & Sleep
 Privacy Policy
-Last updated: November 23, 2026
+Last updated: November 27, 2026
 https://tetiana.tech/cutecat/privacy/
 
 
 
 
-The short version: CuteCat does not require an account or send your in-app activity to a developer-operated server. Your cat and room preferences are stored on your device. Apple processes in-app purchases. If you email us or visit this website, those interactions involve the information described below.
+The short version: CuteCat does not require an account or send your in-app activity to a developer-operated server. Your companion and sound preferences are stored on your device. Apple processes in-app purchases. If you email us or visit this website, those interactions involve the information described below.
 
 
 Who is responsible
@@ -18,7 +18,7 @@ Information in the app
 
 The current app does not include account registration, advertising, third-party analytics SDKs, or a developer-operated backend. It does not request access to your contacts, photos, microphone, camera, or location. Petting interactions are processed locally to animate the cat and play sounds or haptics; they are not sent to us.
 
-Your chosen cat and room are saved locally using iOS preferences. Other settings may be held only for the current session. We cannot access these local preferences remotely. Device backups may include app preferences according to your Apple and device settings.
+Your chosen companion, sound levels, some sound preferences, and whether interaction hints have been shown are saved locally using iOS preferences. Other state may be held only for the current session. We cannot access these local preferences remotely. Device backups may include app preferences according to your Apple and device settings.
 
 
 Apple purchases and diagnostics
@@ -39,7 +39,7 @@ When you visit this website
 
 The CuteCat pages are hosted on GitHub Pages. GitHub logs visitors' IP addresses for security purposes, even if visitors are not signed in. See GitHub Pages data collection (https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#data-collection) and the GitHub Privacy Statement (https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) for details.
 
-We have not added advertising pixels, analytics scripts, cookies, external fonts, or signup forms to the CuteCat pages. The room preview changes only the image displayed in your browser and does not save your selection. Following an external link or opening your email app brings you under that service's own privacy practices. Other pages on tetiana.tech may have different features.
+We have not added advertising pixels, analytics scripts, cookies, external fonts, or signup forms to the CuteCat pages. Following an external link or opening your email app brings you under that service's own privacy practices. Other pages on tetiana.tech may have different features.
 
 
 Use, sharing, and international processing

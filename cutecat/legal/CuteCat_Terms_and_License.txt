@@ -1,6 +1,6 @@
 CuteCat: Purr & Sleep
 Terms & License
-Last updated: November 23, 2026
+Last updated: November 27, 2026
 https://tetiana.tech/cutecat/terms/
 
 
@@ -35,7 +35,7 @@ Availability and compatibility
 
 CuteCat is being prepared for its first public App Store release. Beta screenshots and previews may differ from the released version. The final App Store listing will state availability, price, and device requirements. A release date is not promised on this website.
 
-The core experience is designed to work offline after installation. App downloads, optional purchases, and email support require connectivity. In the current version, sounds pause when the app is no longer active. Features may change through updates.
+The core experience is designed to work offline after installation. App downloads, optional purchases, and email support require connectivity. Audio behavior can differ between beta builds; final playback details will be confirmed before launch. Features may change through updates.
 
 
 Website content and use
