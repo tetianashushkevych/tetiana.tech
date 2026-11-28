@@ -1,2 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://tetiana.tech/cutecat/</loc></url><url><loc>https://tetiana.tech/cutecat/support/</loc></url><url><loc>https://tetiana.tech/cutecat/privacy/</loc></url><url><loc>https://tetiana.tech/cutecat/terms/</loc></url></urlset>
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tetiana.tech/cutecat/</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tetiana.tech/cutecat/support/</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tetiana.tech/cutecat/privacy/</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+  <url>
+    <loc>https://tetiana.tech/cutecat/terms/</loc>
+    <lastmod>2026-11-28</lastmod>
+  </url>
+</urlset>
