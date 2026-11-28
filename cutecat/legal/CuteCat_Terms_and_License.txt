@@ -1,42 +1,36 @@
 CuteCat: Purr & Sleep
+
 Terms & License
-Last updated: November 23, 2026
-https://tetiana.tech/cutecat/terms/
 
+Last updated: November 28, 2026
 
-
-
-CuteCat is a companion app for relaxation and entertainment. The app's license is governed by Apple's Standard End User License Agreement. This page explains the product, optional tips, support, and website use; it does not replace Apple's Standard EULA.
-
+CuteCat is a companion app for relaxation and entertainment. The app's license is governed by Apple's Standard End User License Agreement. This page explains the product, optional companion purchases, tips, support, and website use; it does not replace Apple's Standard EULA.
 
 Developer and contact
 
 CuteCat: Purr & Sleep is developed by Tetiana Hryshchenko, Ukraine. You can contact the developer at hello@tetiana.tech. These notes apply to CuteCat and its pages at tetiana.tech/cutecat/.
 
-
 App license
 
-When obtained through the App Store, CuteCat is licensed under Apple's Standard Licensed Application End User License Agreement (https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), unless a different license is explicitly provided in the App Store. Apple's applicable store terms also apply to downloads and purchases. If these explanatory notes conflict with the applicable app license, that license controls for use of the app.
-
+When obtained through the App Store, CuteCat is licensed under Apple's Standard Licensed Application End User License Agreement, unless a different license is explicitly provided in the App Store. Apple's applicable store terms also apply to downloads and purchases. If these explanatory notes conflict with the applicable app license, that license controls for use of the app.
 
 Relaxation and entertainment
 
 CuteCat offers a virtual cat, ambient scenes, sounds, and a sleep timer for personal enjoyment. It is not a medical device, treatment, or professional health service. We do not promise a particular sleep or health outcome. Use audio at a comfortable volume and only where it is safe to relax.
 
-
 Optional tips and purchases
 
-The current version offers optional, repeatable tips as consumable in-app purchases through Apple. A tip supports development; it does not unlock content or create a subscription. You can use the app's current features without tipping. Apple shows the applicable price, currency, and purchase confirmation before payment.
+Three companions and their matching rooms are included: Kitten, Maine Coon, and British. Velvet and Mochi are separate optional, one-time, non-consumable purchases. Each unlocks that companion and its matching room. These purchases are not subscriptions and can be restored through Restore purchases using the Apple Account that made the purchase.
 
-Purchases are subject to availability and Apple's payment terms. For billing questions and refund requests, use Apple's Report a Problem service (https://reportaproblem.apple.com/). Eligibility is determined under Apple's policies and applicable law. Nothing here removes mandatory consumer rights.
+The app also offers optional, repeatable tips as consumable in-app purchases. A tip supports development; it does not unlock cats or features and does not create a subscription. Companion purchases are separate from tips. Apple shows the applicable price, currency, and purchase confirmation before payment.
 
+Purchases are subject to availability and Apple's payment terms. For billing questions and refund requests, use Apple's Report a Problem service. Eligibility is determined under Apple's policies and applicable law. Nothing here removes mandatory consumer rights.
 
 Availability and compatibility
 
 CuteCat is being prepared for its first public App Store release. Beta screenshots and previews may differ from the released version. The final App Store listing will state availability, price, and device requirements. A release date is not promised on this website.
 
-The core experience is designed to work offline after installation. App downloads, optional purchases, and email support require connectivity. In the current version, sounds pause when the app is no longer active. Features may change through updates.
-
+The core experience is designed to work offline after installation. App downloads, making or restoring purchases, and email support require connectivity. Enabled room sounds and continuous purring support background and lock-screen playback. The sleep timer fades out the sounds when it ends. Features may change through updates.
 
 Website content and use
 
@@ -44,17 +38,22 @@ The website's text, design, app artwork, and other materials are provided to int
 
 Do not misuse the website, interfere with its operation, or attempt unauthorized access. External services linked from this website have their own terms and policies.
 
-
 Privacy and support
 
 Read the CuteCat Privacy Policy for details about local preferences, Apple purchases, support messages, and website hosting. Visit Support for help. No specific response time is guaranteed.
-
 
 Your legal rights
 
 Nothing on this page limits rights that cannot be excluded under applicable consumer or privacy law. App warranties, liability, and other license terms are addressed by the applicable EULA and mandatory law.
 
-
 Updates
 
 We may update this page to reflect product or service changes. The latest revision date is shown above. Updated notes do not remove rights you already have under applicable law.
+
+Links
+
+mailto:hello@tetiana.tech?subject=CuteCat%20terms
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+https://reportaproblem.apple.com/
+https://tetiana.tech/cutecat/privacy/
+https://tetiana.tech/cutecat/support/

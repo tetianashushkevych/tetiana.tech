@@ -1,0 +1,49 @@
+{
+  "app_build": "1.0 (31)",
+  "app_commit": "a483a217065e0c39412eed2cc4bb14f9102d8d45",
+  "xcode_cloud": "Successful Archive - iOS check, zero errors and warnings",
+  "testflight": "Apple email confirms build 31 available to test on 2026-11-28 at 18:49:23 UTC",
+  "native_ui_capture_status": "Not captured: GitHub simulator jobs did not start and produced no artifacts. Website images are exact app artwork, not UI screenshots.",
+  "assets": [
+    {
+      "file": "cutecat/assets/companion-kitten.webp",
+      "source": "CuteCat/Art/kitten_bedroom_awake.png",
+      "source_git_blob_sha": "0a34e4c381cb14a498e61b2f6931caa2d75c13c0",
+      "width": 720,
+      "height": 1560,
+      "export_bytes": 77740
+    },
+    {
+      "file": "cutecat/assets/companion-maine-coon.webp",
+      "source": "CuteCat/Art/scene_maine_chalet_awake_v2.png",
+      "source_git_blob_sha": "f4e9aa2fccc2280f688cc51e1a1bd0b93e95c14a",
+      "width": 851,
+      "height": 1848,
+      "export_bytes": 232886
+    },
+    {
+      "file": "cutecat/assets/companion-british.webp",
+      "source": "CuteCat/Art/british_ocean_awake.png",
+      "source_git_blob_sha": "eb26c8cd95d10e3b6cfaa63a326dea6dd5bfe8e1",
+      "width": 720,
+      "height": 1560,
+      "export_bytes": 130282
+    },
+    {
+      "file": "cutecat/assets/companion-velvet.webp",
+      "source": "CuteCat/Art/burmese_rain_awake.png",
+      "source_git_blob_sha": "f0b5f32f362a07cea4620f53ac2924247bfa30d5",
+      "width": 720,
+      "height": 1560,
+      "export_bytes": 154108
+    },
+    {
+      "file": "cutecat/assets/companion-mochi.webp",
+      "source": "CuteCat/Art/ragdoll_city_awake.png",
+      "source_git_blob_sha": "b8c3f388546e91d59083f793eb0b0faf5ac96f93",
+      "width": 720,
+      "height": 1560,
+      "export_bytes": 127724
+    }
+  ]
+}
